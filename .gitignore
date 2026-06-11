@@ -15,6 +15,9 @@ wheels/
 .DS_Store
 **/.DS_Store
 
+# Local non-submission files
+_non_project_files/
+
 # Downloaded datasets and unrelated local data
 Cat_Dog_data/
 internship-data/*
