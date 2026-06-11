@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv
+.venv/
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Downloaded datasets and unrelated local data
+Cat_Dog_data/
+internship-data/*
+!internship-data/
+!internship-data/moon-pexels-frank-cone.jpg
+
+# Draft/generated report files
+internship_*
+Summer*
+
+# Generated submission assets
+project_video_script.pdf
+project_video_script.md
