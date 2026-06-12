@@ -90,11 +90,7 @@ Open and run:
 09_Imagedata_Augmentation_and_Image_Classification_Spring_2026.ipynb
 ```
 
-The notebook name should remain unchanged for submission.
-
-## Verification
-
-The notebook has been executed successfully with the included data. Key outputs include:
+## Key Outputs
 
 - Training images found: `22500`
 - Image batch shape: `torch.Size([64, 3, 255, 255])`
